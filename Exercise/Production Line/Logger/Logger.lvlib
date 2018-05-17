@@ -22,6 +22,7 @@
 		<Item Name="Create Path.vi" Type="VI" URL="../SubVIs/Create Path.vi"/>
 		<Item Name="Get Folder.vi" Type="VI" URL="../SubVIs/Get Folder.vi"/>
 		<Item Name="Log State.vi" Type="VI" URL="../SubVIs/Log State.vi"/>
+		<Item Name="Log to Excel.vi" Type="VI" URL="../SubVIs/Log to Excel.vi"/>
 	</Item>
 	<Item Name="TypeDefs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>

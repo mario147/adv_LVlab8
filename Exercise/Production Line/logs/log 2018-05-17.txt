@@ -1,0 +1,21 @@
+17.05.2018 18:57:39 Initializing PLC... 
+17.05.2018 18:57:39 UI initialized 
+17.05.2018 18:57:39 Model initilalized 
+17.05.2018 18:57:39 DAQ module initialized 
+17.05.2018 18:57:39 LOG module initialized 
+17.05.2018 18:57:39 PLC initialization successful! 
+17.05.2018 18:57:40 Line has been powered 
+17.05.2018 18:57:42 No power! 
+17.05.2018 18:57:44 Line has been powered 
+17.05.2018 18:57:49 Starting process... 
+17.05.2018 18:57:49 Process has started 
+17.05.2018 18:58:00 Liquid level overflow! 
+17.05.2018 18:58:03 Another barrel filled 
+17.05.2018 18:58:04 Stopping process... 
+17.05.2018 18:58:04 Process has stoped 
+17.05.2018 18:58:37 Closing PLC... 
+17.05.2018 18:58:37 Model closed 
+17.05.2018 18:58:37 DAQ module closed 
+17.05.2018 18:58:37 LOG module closed 
+17.05.2018 18:58:37 PLC shutdown successful! 
+17.05.2018 18:58:37 Application quits 

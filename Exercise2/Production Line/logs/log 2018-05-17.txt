@@ -1,0 +1,140 @@
+17.05.2018 18:43:09 Initializing PLC... 
+17.05.2018 18:43:09 UI initialized 
+17.05.2018 18:43:09 Model initilalized 
+17.05.2018 18:43:09 DAQ module initialized 
+17.05.2018 18:43:09 LOG module initialized 
+17.05.2018 18:43:09 PLC initialization successful! 
+17.05.2018 18:43:24 Initializing PLC... 
+17.05.2018 18:43:24 UI initialized 
+17.05.2018 18:43:24 Model initilalized 
+17.05.2018 18:43:24 DAQ module initialized 
+17.05.2018 18:43:24 LOG module initialized 
+17.05.2018 18:43:24 PLC initialization successful! 
+17.05.2018 18:43:43 Starting process... 
+17.05.2018 18:43:43 Process has started 
+17.05.2018 18:43:54 Stopping process... 
+17.05.2018 18:43:54 Process has stoped 
+17.05.2018 18:43:56 Closing PLC... 
+17.05.2018 18:43:56 Model closed 
+17.05.2018 18:43:56 DAQ module closed 
+17.05.2018 18:43:56 LOG module closed 
+17.05.2018 18:43:56 PLC shutdown successful! 
+17.05.2018 18:43:56 Application quits 
+17.05.2018 18:44:02 Initializing PLC... 
+17.05.2018 18:44:02 UI initialized 
+17.05.2018 18:44:02 Model initilalized 
+17.05.2018 18:44:02 DAQ module initialized 
+17.05.2018 18:44:02 LOG module initialized 
+17.05.2018 18:44:02 PLC initialization successful! 
+17.05.2018 18:44:11 Line has been powered 
+17.05.2018 18:44:11 No power! 
+17.05.2018 18:44:14 Closing PLC... 
+17.05.2018 18:44:14 Model closed 
+17.05.2018 18:44:14 DAQ module closed 
+17.05.2018 18:44:14 LOG module closed 
+17.05.2018 18:44:14 PLC shutdown successful! 
+17.05.2018 18:44:14 Application quits 
+17.05.2018 18:44:22 UI initialized 
+17.05.2018 18:44:22 Initializing PLC... 
+17.05.2018 18:44:22 Model initilalized 
+17.05.2018 18:44:22 DAQ module initialized 
+17.05.2018 18:44:22 LOG module initialized 
+17.05.2018 18:44:22 PLC initialization successful! 
+17.05.2018 18:44:22 Line has been powered 
+17.05.2018 18:44:24 No power! 
+17.05.2018 18:44:26 Line has been powered 
+17.05.2018 18:44:29 Starting process... 
+17.05.2018 18:44:29 Process has started 
+17.05.2018 18:44:45 Another barrel filled 
+17.05.2018 18:45:05 Another barrel filled 
+17.05.2018 18:45:07 Stopping process... 
+17.05.2018 18:45:07 Process has stoped 
+17.05.2018 18:45:53 Initializing PLC... 
+17.05.2018 18:45:53 UI initialized 
+17.05.2018 18:45:53 Model initilalized 
+17.05.2018 18:45:53 DAQ module initialized 
+17.05.2018 18:45:53 LOG module initialized 
+17.05.2018 18:45:53 PLC initialization successful! 
+17.05.2018 18:45:53 Line has been powered 
+17.05.2018 18:45:54 Starting process... 
+17.05.2018 18:45:54 Process has started 
+17.05.2018 18:46:23 Liquid level overflow! 
+17.05.2018 18:46:26 Another barrel filled 
+17.05.2018 18:46:30 Stopping process... 
+17.05.2018 18:46:30 Process has stoped 
+17.05.2018 18:46:58 Starting process... 
+17.05.2018 18:46:58 Process has started 
+17.05.2018 18:47:14 Liquid level overflow! 
+17.05.2018 18:47:16 Another barrel filled 
+17.05.2018 18:47:20 Stopping process... 
+17.05.2018 18:47:20 Process has stoped 
+17.05.2018 18:47:34 Starting process... 
+17.05.2018 18:47:34 Process has started 
+17.05.2018 18:47:50 Another barrel filled 
+17.05.2018 18:47:51 Stopping process... 
+17.05.2018 18:47:51 Process has stoped 
+17.05.2018 18:49:01 Initializing PLC... 
+17.05.2018 18:49:01 UI initialized 
+17.05.2018 18:49:01 Model initilalized 
+17.05.2018 18:49:01 DAQ module initialized 
+17.05.2018 18:49:01 LOG module initialized 
+17.05.2018 18:49:01 PLC initialization successful! 
+17.05.2018 18:49:01 Line has been powered 
+17.05.2018 18:50:27 Initializing PLC... 
+17.05.2018 18:50:27 UI initialized 
+17.05.2018 18:50:27 Model initilalized 
+17.05.2018 18:50:27 DAQ module initialized 
+17.05.2018 18:50:27 LOG module initialized 
+17.05.2018 18:50:27 PLC initialization successful! 
+17.05.2018 18:50:27 Line has been powered 
+17.05.2018 18:51:41 Initializing PLC... 
+17.05.2018 18:51:41 UI initialized 
+17.05.2018 18:51:41 Model initilalized 
+17.05.2018 18:51:41 DAQ module initialized 
+17.05.2018 18:51:41 LOG module initialized 
+17.05.2018 18:51:41 PLC initialization successful! 
+17.05.2018 18:51:41 Line has been powered 
+17.05.2018 18:51:45 Starting process... 
+17.05.2018 18:51:45 Process has started 
+17.05.2018 18:51:55 Another barrel filled 
+17.05.2018 18:51:57 Stopping process... 
+17.05.2018 18:51:57 Process has stoped 
+17.05.2018 18:52:13 Starting process... 
+17.05.2018 18:52:13 Process has started 
+17.05.2018 18:52:26 Liquid level overflow! 
+17.05.2018 18:52:28 Another barrel filled 
+17.05.2018 18:53:43 Another barrel filled 
+17.05.2018 18:53:45 Stopping process... 
+17.05.2018 18:53:45 Process has stoped 
+17.05.2018 18:53:55 Initializing PLC... 
+17.05.2018 18:53:55 UI initialized 
+17.05.2018 18:53:55 Model initilalized 
+17.05.2018 18:53:55 DAQ module initialized 
+17.05.2018 18:53:55 LOG module initialized 
+17.05.2018 18:53:55 PLC initialization successful! 
+17.05.2018 18:53:55 Line has been powered 
+17.05.2018 18:54:15 Initializing PLC... 
+17.05.2018 18:54:15 UI initialized 
+17.05.2018 18:54:15 Model initilalized 
+17.05.2018 18:54:15 DAQ module initialized 
+17.05.2018 18:54:15 LOG module initialized 
+17.05.2018 18:54:15 PLC initialization successful! 
+17.05.2018 18:54:15 Line has been powered 
+17.05.2018 18:54:16 Starting process... 
+17.05.2018 18:54:16 Process has started 
+17.05.2018 18:54:29 Liquid level overflow! 
+17.05.2018 18:54:31 Another barrel filled 
+17.05.2018 18:54:33 Stopping process... 
+17.05.2018 18:54:33 Process has stoped 
+17.05.2018 18:55:37 Initializing PLC... 
+17.05.2018 18:55:37 UI initialized 
+17.05.2018 18:55:37 Model initilalized 
+17.05.2018 18:55:37 DAQ module initialized 
+17.05.2018 18:55:37 LOG module initialized 
+17.05.2018 18:55:37 PLC initialization successful! 
+17.05.2018 18:55:38 Line has been powered 
+17.05.2018 18:55:41 Starting process... 
+17.05.2018 18:55:41 Process has started 
+17.05.2018 18:55:54 Liquid level overflow! 
+17.05.2018 18:56:01 Stopping process... 
+17.05.2018 18:56:01 Process has stoped 
